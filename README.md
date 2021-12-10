@@ -1,4 +1,4 @@
-# Windthrown-forest-analysis
+# Wind-disturbed_forest_analysis
 Analysis of windthrown forest on large areas with point clouds
 
 The algorithms performed the stored volume index and the tree identification and crown extraction. They have been implemented to assess protection capacity of windthrown forests. The analysis require a point cloud (.las format) and a shapefile identifying the areas of interest that will be analysed.
